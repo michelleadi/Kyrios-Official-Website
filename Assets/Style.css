@@ -331,15 +331,6 @@ img
 .nav__link:hover
 {
   color: var(--first-color);
-  font-weight: var(--font-semi-bold);
-  border-bottom: 5px solid var(--first-color);
-  padding-bottom: 10px;
-  border-radius: 1px;
-}
-.nav__link:focus
-{
-  color: var(--first-color);
-  font-weight: var(--font-semi-bold);
   border-bottom: 5px solid var(--first-color);
   padding-bottom: 10px;
   border-radius: 1px;
